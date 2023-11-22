@@ -1,0 +1,9 @@
+utilizzabilità:
+ - fare un README.md con istruzioni chiare
+ - dividere il progetto in train e "app"
+
+testing:
+ - trovare un modello che funzioni bene
+ - capire come salvare i modelli in modo efficente e semplice
+ - provare gradio
+ - provare con dimensioni strane e classi strane
