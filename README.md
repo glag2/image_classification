@@ -1,6 +1,6 @@
 obbiettivi raggiunti:
-- modello da 0
-- generatore immagini
-- dataset tensorflow
+- modello sequential (fa schifo)
+- funzione generatore immagini
+- dataset custom tensorflow
 - finetuning resnet 50
-- classi pesate
+- classi pesate in automatico
